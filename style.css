@@ -1,0 +1,26 @@
+/* style.css - 麥當勞定位系統樣式 */
+
+body {
+  font-family: "Microsoft JhengHei", Arial, sans-serif;
+  background-color: #fff8f0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #e60012;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #ff6600;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
